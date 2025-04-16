@@ -34,7 +34,7 @@ This is a **Product Landing Page** built as part of the freeCodeCamp Frontend De
 
 ## Live Demo
 
-Check out the live demo of this project here: [https://your-live-demo-url](https://your-live-demo-url)
+Check out the live demo of this project here: [https://your-live-demo-url](https://atharvaprojects.github.io/Product-Landing-Page/)
 
 ## Technologies Used
 
